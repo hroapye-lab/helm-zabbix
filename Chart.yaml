@@ -22,8 +22,3 @@ maintainers:
   - name: Aecio Pires
     email: aeciopires@gmail.com
     url: https://github.com/aeciopires
-dependencies:
-  - name: postgresql
-    version: ~10.3.6
-    repository: https://charts.bitnami.com/bitnami
-    condition: postgresql.enabled
